@@ -9,11 +9,11 @@ opsdev博客
 vi /etc/sysconfig/network-scripts/ifcfg-ens33
 ```
 修改 
-、、、
+```
 BOOTPROTO=yes
 ONBOOT=yes
-、、、
+```
 然后重启网卡
-、、、
+```
 systemctl restart network
-、、、
+```
