@@ -40,3 +40,6 @@ hostnamectl set-hostname  k8s-master
  # jenkins
 安装 Pipeline Utility Steps这个插件
 Maven Integration
+
+升级dockers版本
+https://www.jianshu.com/p/6e5da590aeda
