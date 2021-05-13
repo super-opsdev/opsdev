@@ -38,4 +38,4 @@ hostnamectl set-hostname  k8s-master
 ```
  
  # jenkins
-安装 Pipeline Utility Steps这个
+安装 Pipeline Utility Steps这个插件
