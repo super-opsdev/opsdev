@@ -37,3 +37,5 @@ sed -ri 's/.*swap.*/#&/' /etc/fstab
 hostnamectl set-hostname  k8s-master
 ```
  
+ # jenkins
+安装 Pipeline Utility Steps这个
