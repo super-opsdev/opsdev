@@ -43,3 +43,7 @@ Maven Integration
 
 升级dockers版本
 https://www.jianshu.com/p/6e5da590aeda
+
+
+# k8s 的imagePullSecrets生成和使用
+https://www.cnblogs.com/xiao987334176/p/11434326.html
